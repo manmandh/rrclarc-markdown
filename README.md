@@ -26,7 +26,7 @@ Phụ lục (APPENDIX): Model training, CAV Optimizer, các bảng kết quả c
 
 Kết luận và hướng phát triển
 
-🖼2. images/
+2. images/
 
 Thư mục chứa hình minh họa quan trọng từ bài báo:
 
